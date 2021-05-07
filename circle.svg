@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <circle cx="100" cy="100" r="90" stroke="black" stroke-width="4" fill="yellow" />
+  <circle cx="70" cy="70" r="10" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="130" cy="70" r="10" stroke="black" stroke-width="2" fill="white" />
+  <!-- <polygon points="60,130 140,130 130,60" fill="pink"/> -->
+  <line x1="60" y1="120" x2="140" y2="120" stroke="black" stroke-width="3" />
+  <path d="M60,120 S100,180 140,120" stroke="black" stroke-width="2" fill="white"/>
+</svg>
